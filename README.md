@@ -12,7 +12,7 @@ Make sure you have git and Docker desktop installed.
 ### Installation
 #### 1.Clone/git pull the repo into any local directory
 ```
-git clone https://github.com/Sara771dev/IRIS-Log-Monitor.git
+git clone https://github.com/samuelxabc/IRIS-API-Template.git
 ```  
 #### Open the terminal in this directory and run
 
