@@ -5,7 +5,7 @@ This is a REST template that can send REST messages to production and control in
 ---
 ## How to use it
 ``` 
-zpm "install IRIS-API-Template" 
+zpm "install iris-rest-template"
 ``` 
 ### Prerequisites
 Make sure you have git and Docker desktop installed.
