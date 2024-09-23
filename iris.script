@@ -1,0 +1,4 @@
+     zn "USER"
+     load     load /home/irisowner/dev
+     exit
+     halt
